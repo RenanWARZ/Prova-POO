@@ -3,6 +3,7 @@ package com.prova.java.Controller;
 import jakarta.persistence.*;
 import java.util.List;
 
+//controller
 @Entity
 public class Curso {
 

@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+//controller
 @RestController
 @RequestMapping("/api/cursos")
 public class CursoController {
