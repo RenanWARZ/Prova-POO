@@ -1,6 +1,6 @@
 package com.prova.java.Repository;
 
-
+//Repository
 import com.prova.java.Controller.Aluno;
 import org.springframework.data.jpa.repository.JpaRepository;
 
